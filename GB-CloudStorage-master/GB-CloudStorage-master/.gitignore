@@ -1,0 +1,5 @@
+/client/target/
+/server/target/
+/shared/target/
+/target/
+/.idea/
